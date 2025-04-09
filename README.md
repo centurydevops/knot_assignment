@@ -50,3 +50,9 @@ terraform apply -auto-approve
 Visit: http://<EC2_PUBLIC_IP>/
 
 ~20% of the time, the server will return a 500 Internal Server Error.
+
+
+## Potential improvements
+1. Use terraform modules for scalling
+2. Use github actions pipeline jobs to apply the codes to promote transparency within the team
+3 Use kubernetes engine to manage the application which gives room for more configurations like monitoring and alerting each time we get any 5xx errors
