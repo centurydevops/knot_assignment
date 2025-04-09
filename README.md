@@ -28,5 +28,5 @@ This project simulates investigating intermittent 5xx errors in a web applicatio
 
 1. **Clone the Repo**  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/knot-assignment.git
+   git clone [https://github.com/YOUR_USERNAME/knot-assignment](https://github.com/centurydevops/knot_assignment.git)
    cd knot-assignment
